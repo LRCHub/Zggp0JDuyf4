@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "ヒャダインのじょーじょーゆーじょー",
+  "base_artist": "ヒャダイン",
+  "createdAt": "2025-12-20T10:56:09.375001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/01_ヒャダインのじょーじょーゆーじょー_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー (without ヒャダイン)",
+      "artist": "HYADAIN",
+      "has_synced": false,
+      "path": "select/02_ヒャダインのじょーじょーゆーじょー_(without_ヒャダイン)_HYADAIN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー (without ヒャダル子)",
+      "artist": "HYADAIN",
+      "has_synced": true,
+      "path": "select/03_ヒャダインのじょーじょーゆーじょー_(without_ヒャダル子)_HYADAIN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/04_ヒャダインのじょーじょーゆーじょー_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー(without ヒャダイン)",
+      "artist": "ヒャダイン",
+      "has_synced": false,
+      "path": "select/05_ヒャダインのじょーじょーゆーじょー(without_ヒャダイン)_ヒャダイン.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー (Cover) - Hyadain no Jojo Yujo (Cover)",
+      "artist": "Happy Around!",
+      "has_synced": true,
+      "path": "select/06_ヒャダインのじょーじょーゆーじょー_(Cover)_-_Hyadain_no_Jojo_Yujo_(Cover)_Happy_Around!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー(without ヒャダル子)",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/07_ヒャダインのじょーじょーゆーじょー(without_ヒャダル子)_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー(off vocal)",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/08_ヒャダインのじょーじょーゆーじょー(off_vocal)_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー(off vocal)",
+      "artist": "Hyadain",
+      "has_synced": true,
+      "path": "select/09_ヒャダインのじょーじょーゆーじょー(off_vocal)_Hyadain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー",
+      "artist": "Happy Around!",
+      "has_synced": true,
+      "path": "select/10_ヒャダインのじょーじょーゆーじょー_Happy_Around!.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー(off vocal)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/11_ヒャダインのじょーじょーゆーじょー(off_vocal)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー Trance Kaboom REMIX",
+      "artist": "ヒャダイン",
+      "has_synced": false,
+      "path": "select/12_ヒャダインのじょーじょーゆーじょー_Trance_Kaboom_REMIX_ヒャダイン.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー(without ヒャダイン)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/13_ヒャダインのじょーじょーゆーじょー(without_ヒャダイン)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー",
+      "artist": "IOSYS",
+      "has_synced": false,
+      "path": "select/14_ヒャダインのじょーじょーゆーじょー_IOSYS.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー",
+      "artist": "IOSYS feat. beatMARIO & Amane",
+      "has_synced": false,
+      "path": "select/15_ヒャダインのじょーじょーゆーじょー_IOSYS_feat._beatMARIO_&_Amane.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー(without ヒャダル子)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/16_ヒャダインのじょーじょーゆーじょー(without_ヒャダル子)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー (Trance Kaboom REMIX)",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/17_ヒャダインのじょーじょーゆーじょー_(Trance_Kaboom_REMIX)_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー",
+      "artist": "前山田健一",
+      "has_synced": true,
+      "path": "select/18_ヒャダインのじょーじょーゆーじょー_前山田健一.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー",
+      "artist": "ヒャダイン",
+      "has_synced": true,
+      "path": "select/19_ヒャダインのじょーじょーゆーじょー_ヒャダイン.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "ヒャダインのじょーじょーゆーじょー （Without ヒャダイン）",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/20_ヒャダインのじょーじょーゆーじょー_(Without_ヒャダイン)_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒャダインのじょーじょーゆーじょー",
+      "artist": "ヒャダイン",
+      "has_synced": false,
+      "path": "select/pl_01_ヒャダインのじょーじょーゆーじょー_ヒャダイン.txt"
+    }
+  ]
+}
